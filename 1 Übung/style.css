@@ -1,3 +1,52 @@
-.Text_01 {
+.menu {
+    background-color: yellow;
+    height: 100px;
+}
+.text {
+    background-color: darkblue;
+    height: 300px;
+    width: 400px;
+    margin-top: 20px;
+    margin-left: 20px;
     
+}
+.Ueberschrift {
+    font-size: 20 px;
+    padding: 20px;
+}
+.list{
+    list-style-type: disc;
+    margin-left: 20px;
+
+}
+.box1 {
+    display: flex;
+    background-color: lightgreen;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 40px;
+    right: 30px;
+
+
+}
+.box2 {
+    display: flex;
+    background-color: lightgreen;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 40px;
+    right: 80px;
+
+}
+.box3 {
+    display: flex;
+    background-color: lightgreen;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 40px;
+    right: 130px;
+
 }
