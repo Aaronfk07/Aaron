@@ -16,10 +16,10 @@
 }
 .list{
     list-style-type: disc;
-    margin-left: 20px;
+    margin-left: 40px;
 
 }
-.box1 {
+.gruenebox1 {
     display: flex;
     background-color: lightgreen;
     position: absolute;
@@ -30,7 +30,7 @@
 
 
 }
-.box2 {
+.gruenebox2 {
     display: flex;
     background-color: lightgreen;
     position: absolute;
@@ -40,7 +40,7 @@
     right: 80px;
 
 }
-.box3 {
+.gruenebox3 {
     display: flex;
     background-color: lightgreen;
     position: absolute;
@@ -49,4 +49,23 @@
     top: 40px;
     right: 130px;
 
+}
+.pinkebox {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    background-color: purple;
+    bottom: 0px;
+    right: 0px;
+    position: absolute;
+}
+
+.Braunebox {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    background-color: brown;
+    top: 320px;
+    left: 320px;
+    position: absolute;
 }
