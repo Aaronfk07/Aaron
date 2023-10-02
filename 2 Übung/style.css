@@ -1,0 +1,73 @@
+
+
+.pinkebox {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    background-color: purple;
+    top:  0px;
+    right: 0px;
+    position: absolute;
+}
+.text {
+    background-color: darkblue;
+    height: 300px;
+    width: 400px;
+    margin-top: 20px;
+    margin-left: 20px;
+    
+}
+.Ueberschrift {
+    font-size: 20 px;
+    padding: 20px;
+}
+.list{
+    list-style-type: disc;
+    margin-left: 40px;
+
+}
+.menu {
+    background-color: yellow;
+    height: 100px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.grueneboxen {
+    justify-content: space-between;
+}
+.gruenebox1 {
+   background-color: lawngreen;
+    height: 30px;
+    width: 30px;
+    display: flex;
+}
+.gruenebox2 {
+    background-color: lawngreen;
+    height: 30px;
+    width: 30px;
+    display: flex;
+}
+.gruenebox3 {
+    background-color: lawngreen;
+    height: 30px;
+    width: 30px;
+    display: flex;
+}
+.gruenebox4 {
+    background-color: lawngreen;
+    height: 30px;
+    width: 30px;
+    display: flex;
+}
+.Braunebox{
+    background-color: brown;
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: end;
+    
+}
