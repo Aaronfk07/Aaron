@@ -19,3 +19,16 @@ console.log(" a + b = " + c);
 // *, /, +, -,
 
 console.log("c - b = " + a);
+
+let result = a - b;
+let e = 7.4;
+let d = 7.5;
+
+result = e + d;
+
+console.log(result);
+
+let name = "Andreas";
+console.log(name);
+
+console.log("Das Ergebnis von " + a + " und " + b + " ist " + result  );
