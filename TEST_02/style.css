@@ -1,0 +1,68 @@
+.menu {
+    background-color: green;
+    height: 100px;
+    position: relative;
+}
+.greenbox {
+height: 30px;
+width: 40px;
+background-color: lightgreen;
+left: 10px;
+top: 40px;
+position: absolute;
+}
+.gruenebox1 {
+    display: flex;
+    background-color: lightgreen;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 40px;
+    right: 30px;
+
+
+}
+.gruenebox2 {
+    display: flex;
+    background-color: lightgreen;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 40px;
+    right: 80px;
+
+}
+.gruenebox3 {
+    display: flex;
+    background-color: lightgreen;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 40px;
+    right: 130px;
+
+}
+.pinkebox{
+    background-color: pink;
+    height: 200px;
+    width: 200px;
+    margin-top: 30px;
+    position: relative;
+}
+.schwarzebox{
+    background-color: black;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+.greenrightbox {
+    position: absolute;
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
