@@ -6,3 +6,6 @@ if(a%8 == 0) {
 } else {
     console.log("Number is odd");
 }
+for (let index = 0; index < 500; index++) {
+    
+}
