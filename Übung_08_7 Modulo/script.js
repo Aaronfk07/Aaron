@@ -7,5 +7,5 @@ if(a%8 == 0) {
     console.log("Number is odd");
 }
 for (let index = 0; index < 500; index++) {
-    
+    console.log(result)
 }
