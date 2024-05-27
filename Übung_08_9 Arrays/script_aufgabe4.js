@@ -12,3 +12,4 @@ if (R > Money) {
 } else if (R < Money) {
     console.log("No")
 };
+
